@@ -1,3 +1,3 @@
-# Manipulate Form Action Data Before Sending It
+# SvelteKit Image Upload
 
-This is the repository for the blog post you can find [here](https://www.programonaut.com/how-to-manipulate-form-action-data-before-sending-it-in-sveltekit/). In it you will learn how to manipulate form action data before sending it to the server with SvelteKit. 
+This is the repository for the blog post you can find [here](https://www.programonaut.com/how-to-create-a-sveltekit-image-upload-step-by-step/). In it you will learn how to create an image upload with SvelteKit. 
